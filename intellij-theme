@@ -1,5 +1,0 @@
-git clone git@github.com:jkaving/intellij-colors-solarized.git
-
-File -> Import Settings -> intellij-colors-solarized
-
-Preferences -> Editor -> Color & Fonts
